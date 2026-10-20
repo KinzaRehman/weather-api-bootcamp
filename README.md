@@ -1,6 +1,7 @@
 # Weather App
 
 Goal: Enable your user to enter a city + country and return the temperature in Fahrenheit.
+[Live](https://kinzarehman.github.io/weather-api-bootcamp/)
 
 ## View
 <p align="center">
